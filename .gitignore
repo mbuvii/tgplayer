@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Downloaded media
+downloads/
+
+# IDE
+.vscode/
+.idea/
+
+# Heroku
+*.pyc
+.env
+.DS_Store
